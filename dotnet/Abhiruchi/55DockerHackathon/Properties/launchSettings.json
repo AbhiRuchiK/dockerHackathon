@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "55DockerHackathon": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
